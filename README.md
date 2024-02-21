@@ -11,7 +11,7 @@ These are checked regularly, usually on Sundays, at least once per month for eac
 5. [ByteByteGo](https://blog.bytebytego.com) - System Design
 
 ## Youtube
-For first 3 are for when my chores or fitness training allow me to listen something in parallel, so I check them regularly. I'm checking the rest of them when needing some more specific content.
+The first 3 are for when my chores or fitness training allow me to listen something in parallel, so I check them regularly. I'm checking the rest of them when needing some more specific content.
 
 1. [Fireship](https://www.youtube.com/@Fireship) - General Software Engineering; Great summarised news on the Software industry
 2. [Beyond Fireship](https://www.youtube.com/@beyondfireship) - General Software Engineering; More detailed than Fireship
